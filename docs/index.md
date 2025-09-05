@@ -8,4 +8,4 @@ permalink: /
 
 Este es mi proyecto.
 
-- [Actividad A1]({{ site.baseurl }}/A1.md)
+- [Actividad A1]({{ site.baseurl }}/A1.html)
