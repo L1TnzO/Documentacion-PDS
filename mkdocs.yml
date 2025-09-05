@@ -22,12 +22,7 @@ theme:
     - search.suggest
     - search.highlight
   palette:
-    - media: '(prefers-color-scheme: light)'
-      scheme: default
-      primary: red
-      accent: deep orange
-    - media: '(prefers-color-scheme: dark)'
-      scheme: slate
+    - scheme: default
       primary: red
       accent: deep orange
 
