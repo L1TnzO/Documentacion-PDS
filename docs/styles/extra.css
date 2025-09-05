@@ -18,3 +18,28 @@
   padding: 0.6rem 0.8rem;
   border-radius: 6px;
 }
+
+/* Justificar todo el texto */
+.md-typeset p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.md-typeset li {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.md-typeset blockquote p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.md-typeset .admonition-title {
+  text-align: left; /* Mantener títulos de admoniciones alineados a la izquierda */
+}
+
+.md-typeset .admonition p {
+  text-align: justify;
+  text-justify: inter-word;
+}
