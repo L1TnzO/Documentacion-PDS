@@ -4,7 +4,7 @@ description: "ICC752-1 · Proyecto de Desarrollo de Software"
 url: "https://l1tnzo.github.io"
 baseurl: "/Documentacion-PDS"
 minima:
-	skin: dark
+  skin: dark
 header_pages:
-	- index.md
-	- A1.md
+  - index.md
+  - A1.md
