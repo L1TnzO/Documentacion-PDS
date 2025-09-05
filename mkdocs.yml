@@ -61,12 +61,12 @@ markdown_extensions:
 nav:
   - Inicio: index.md
   - Entregas:
-      - A1 • Formulación del problema: A1.md
+      - A1 • Problema &  Contexto: A1.md
       - A2 • Metodología y herramientas: A2.md
-      - A3 • Sitio de documentación: A3.md
-      - A4 • Diseño de prototipo: A4.md
-      - A5 • Desarrollo intermedio: A5.md
-      - A6 • MVP funcional: A6.md
+      - A3 • Documentación: A3.md
+      - A4 • Diseño de Proceso & Plan: A4.md
+      - A5 • Diseño de Prototipo: A5.md
+      - A6 • Versión Funcional (MVP): A6.md
       - A7 • Evaluación del prototipo: A7.md
 
 extra_css:
