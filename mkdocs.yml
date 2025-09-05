@@ -21,6 +21,7 @@ theme:
     - content.action.edit
     - search.suggest
     - search.highlight
+  custom_dir: null
   palette:
     - media: '(prefers-color-scheme: light)'
       scheme: default
@@ -54,7 +55,7 @@ markdown_extensions:
   - footnotes
   - toc:
       permalink: true
-      toc_depth: 3
+      toc_depth: 0
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.tabbed:
