@@ -21,7 +21,6 @@ theme:
     - content.action.edit
     - search.suggest
     - search.highlight
-  custom_dir: null
   palette:
     - media: '(prefers-color-scheme: light)'
       scheme: default
