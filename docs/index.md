@@ -7,19 +7,21 @@
 
 ## Entregas
 
-- A1: Formulación del problema — ver sección en el menú.
-- A2: Metodología y herramientas — ver sección en el menú.
-- A3: Definición del sitio de documentación — estructura y lineamientos.
-- A4: Diseño del prototipo — wireframes, flujo y decisiones UX.
-- A5: Desarrollo intermedio — avances y decisiones técnicas.
-- A6: MVP funcional — resultado y demo.
-- A7: Evaluación — resultados de pruebas y conclusiones.
+- Actividad A1: Problema &  Contexto
+- Actividad A2: Metodología y Herramientas
+- Actividad A3: Documentación
+- Actividad A4: Diseño de Proceso & Plan
+- Actividad A5: Diseño de Prototipo
+- Actividad A6: Versión Funcional
+- Actividad A7: Evaluación del Prototipo
 
 ## Cómo navegar
 
 - Usa el menú lateral (o pestañas) para moverte entre entregas.
-- La barra de búsqueda te permite encontrar contenido al instante.
+- La barra de búsqueda te permite encontrar contenido al instante: prueba términos como "A1", "Actividad A1" o el nombre de la entrega (por ejemplo, "Diseño de Prototipo").
 
-## Créditos
+## Equipo
 
-Equipo: 2 integrantes — enfoque ágil (Scrum + Kanban) con sprints semanales.
+
+- Enzo Loren
+- Juan Paiva

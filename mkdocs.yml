@@ -2,7 +2,7 @@ site_name: Documentación PDS
 site_description: Documentación del proyecto universitario (A1–A7)
 site_url: https://l1tnzo.github.io/Documentacion-PDS/
 repo_url: https://github.com/L1TnzO/Documentacion-PDS
-copyright: "© {year} — Proyecto PDS"
+copyright: "© 2025 — FireSight"
 
 theme:
   name: material
