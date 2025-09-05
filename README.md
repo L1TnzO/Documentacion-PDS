@@ -20,8 +20,6 @@ python -m venv .venv ; .\.venv\Scripts\Activate.ps1 ; pip install -U pip ; pip i
 mkdocs serve
 ```
 
-Abre http://127.0.0.1:8000
-
 ## Desplegar manualmente (opcional)
 
 ```powershell
