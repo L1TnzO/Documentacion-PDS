@@ -1,0 +1,77 @@
+site_name: Documentación PDS
+site_description: Documentación del proyecto universitario (A1–A7)
+site_url: https://l1tnzo.github.io/Documentacion-PDS/
+repo_url: https://github.com/L1TnzO/Documentacion-PDS
+copyright: "© {year} — Proyecto PDS"
+
+theme:
+  name: material
+  language: es
+  font:
+    text: Inter
+    code: Fira Code
+  favicon: assets/favicon.svg
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.top
+    - toc.follow
+    - content.code.copy
+    - content.action.edit
+    - search.suggest
+    - search.highlight
+  palette:
+    - media: '(prefers-color-scheme: light)'
+      scheme: default
+      primary: red
+      accent: deep orange
+    - media: '(prefers-color-scheme: dark)'
+      scheme: slate
+      primary: red
+      accent: deep orange
+
+extra:
+  social:
+    - icon: material/github
+      link: https://github.com/L1TnzO/Documentacion-PDS
+      name: Repositorio en GitHub
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+
+edit_uri: edit/main/docs/
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - def_list
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Inicio: index.md
+  - Entregas:
+      - A1 • Formulación del problema: A1.md
+      - A2 • Metodología y herramientas: A2.md
+      - A3 • Sitio de documentación: A3.md
+      - A4 • Diseño de prototipo: A4.md
+      - A5 • Desarrollo intermedio: A5.md
+      - A6 • MVP funcional: A6.md
+      - A7 • Evaluación del prototipo: A7.md
+
+extra_css:
+  - styles/extra.css

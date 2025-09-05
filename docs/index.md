@@ -1,44 +1,25 @@
----
-layout: home
-title: "Inicio"
-permalink: /
----
+# Proyecto PDS — Documentación
 
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css">
+> Plataforma de documentación para las entregas A1–A7 del proyecto universitario.
 
-<div class="hero">
-	<h1>Firesight</h1>
-	<p class="subtitle">ICC752-1 · Proyecto de Desarrollo de Software</p>
-	<p class="tagline">Herramientas basadas en datos para apoyar la respuesta y la planificación ante incendios urbanos.</p>
-	<div class="cta">
-		<a class="btn primary" href="{{ site.baseurl }}/A1.html">Ver Actividad A1</a>
-		<a class="btn" href="{{ site.baseurl }}/">Inicio</a>
-	</div>
-</div>
+!!! info "Acerca del sitio"
+	Esta web se genera con MkDocs + Material y se despliega automáticamente en GitHub Pages.
 
-## Equipo
+## Entregas
 
-- Enzo Loren
-- Juan Paiva
+- A1: Formulación del problema — ver sección en el menú.
+- A2: Metodología y herramientas — ver sección en el menú.
+- A3: Definición del sitio de documentación — estructura y lineamientos.
+- A4: Diseño del prototipo — wireframes, flujo y decisiones UX.
+- A5: Desarrollo intermedio — avances y decisiones técnicas.
+- A6: MVP funcional — resultado y demo.
+- A7: Evaluación — resultados de pruebas y conclusiones.
 
-## Profesor
+## Cómo navegar
 
-- Ricardo Gacitúa
+- Usa el menú lateral (o pestañas) para moverte entre entregas.
+- La barra de búsqueda te permite encontrar contenido al instante.
 
-## Asignatura
+## Créditos
 
-- ICC752-1: Proyecto de Desarrollo de Software
-
-## Documentos
-
-- Actividad A1 → <a href="{{ site.baseurl }}/A1.html">A1</a>
-
-<style>
-.hero { text-align:center; margin: 2rem 0 3rem; }
-.hero h1 { font-size: 3rem; margin: 0 0 .25rem; }
-.hero .subtitle { font-size: 1.1rem; opacity: .85; margin: 0 0 .5rem; }
-.hero .tagline { opacity: .9; max-width: 48rem; margin: 0 auto 1.25rem; }
-.hero .cta { display:flex; gap:.75rem; justify-content:center; flex-wrap:wrap; }
-.btn { display:inline-block; padding:.6rem 1rem; border:1px solid currentColor; border-radius:8px; text-decoration:none; }
-.btn.primary { background: var(--link-hover-color, #2ea043); border-color: transparent; color: #fff; }
-</style>
+Equipo: 2 integrantes — enfoque ágil (Scrum + Kanban) con sprints semanales.
