@@ -1,5 +1,10 @@
 theme: minima
-title: "Proyecto Bomberos"
-description: "Actividades y entregables"
+title: "Firesight"
+description: "ICC752-1 · Proyecto de Desarrollo de Software"
 url: "https://l1tnzo.github.io"
 baseurl: "/Documentacion-PDS"
+minima:
+	skin: dark
+header_pages:
+	- docs/index.md
+	- docs/A1.md

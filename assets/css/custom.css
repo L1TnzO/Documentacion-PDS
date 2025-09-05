@@ -1,0 +1,5 @@
+/* Custom tweaks for Firesight */
+:root { --brand: #ff6b2d; }
+.site-title { color: var(--brand); }
+.page-content { padding-top: 1.5rem; }
+.hero .btn.primary { background: var(--brand); }
