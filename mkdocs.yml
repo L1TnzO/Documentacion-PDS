@@ -36,9 +36,7 @@ plugins:
   - search
   - minify:
       minify_html: true
-  - git-revision-date-localized:
-      fallback_to_build_date: true
-
+      
 edit_uri: edit/main/docs/
 
 markdown_extensions:
